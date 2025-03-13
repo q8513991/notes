@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "7e2d1a875f6f3b30",
+        "id": "9b87bd8afa8877f7",
         "type": "tabs",
         "children": [
           {
-            "id": "8c63f0030e62f88b",
+            "id": "018199da7cf5ebcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "量化路线.md",
+                "file": "量化/b/截面套利.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "量化路线"
+              "title": "截面套利"
             }
           }
         ]
@@ -61,7 +71,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -78,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 255.5
   },
   "right": {
     "id": "9b0207aaa34ef745",
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "量化路线.md",
+                "file": "量化/b/波动率过滤因子.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 量化路线"
+              "title": "波动率过滤因子 的反向链接列表"
             }
           },
           {
@@ -113,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "量化路线.md",
+                "file": "量化/b/波动率过滤因子.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 量化路线"
+              "title": "波动率过滤因子 的出链列表"
             }
           },
           {
@@ -133,7 +143,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
@@ -142,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "量化路线.md",
+                "file": "量化/b/波动率过滤因子.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 量化路线"
+              "title": "波动率过滤因子 的大纲"
             }
           }
         ]
@@ -168,10 +178,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8c63f0030e62f88b",
+  "active": "018199da7cf5ebcd",
   "lastOpenFiles": [
-    "Welcome.md",
-    "量化路线.md",
-    "create a link.md"
+    "量化/b/量化课题.md",
+    "量化/a/镜重圆.md",
+    "量化/b/截面套利.md",
+    "量化/b/实盘命令.md",
+    "量化/b/币圈中性策略.md",
+    "量化/图片/Pasted image 20250309133337.png",
+    "量化/b/带方向波动率标准差因子.md",
+    "量化/图片/Pasted image 20250309153621.png",
+    "量化/图片/Pasted image 20250309145337.png",
+    "量化/图片/Pasted image 20250309140737.png",
+    "量化/a/定风波/适度理解.md",
+    "量化/图片/Pasted image 20250309134829.png",
+    "量化/fx/思路记录.md",
+    "量化/b/量化路线.md",
+    "量化/图片/Pasted image 20250307210436.png",
+    "量化/图片",
+    "量化/图片/Pasted image 20250307220047.png",
+    "量化/图片/Pasted image 20250307215434.png",
+    "量化/图片/Pasted image 20250307215343.png",
+    "量化/图片/Pasted image 20250307215055.png",
+    "量化/a/定风波",
+    "量化/a",
+    "量化/fx",
+    "量化/b",
+    "create a link.md",
+    "量化",
+    "Welcome.md"
   ]
 }
